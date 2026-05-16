@@ -1,2 +1,4 @@
-# GeoClimate-FusionLLM
-eproducible Python code and Baghdad 2019–2024 climate dataset for GeoClimate-FusionLLM: multimodal data fusion, explainable deep learning, and environmental early-warning forecasting.
+# Data folder
+
+This repository package includes the Baghdad 2019-2024 file supplied by the manuscript author Dr. Shaheen Mohammed Saleh Ahmed for reproducible local testing. Before making the repository public, confirm that the data provider license permits redistribution. If redistribution is not permitted, remove the data files and keep only instructions for obtaining them.
+

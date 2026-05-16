@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: GeoClimate-FusionLLM: Explainable Multi-Modal Environmental Early-Warning Pipeline
+authors:
+  - family-names: Ahmed
+    given-names: Shaheen Mohammed Saleh
+version: 1.0.0
+date-released: 2026-05-16
+message: "If you use this software, please cite the associated Discover Geoscience manuscript."
+license: MIT
