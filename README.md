@@ -6,6 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![DOI](https://img.shields.io/badge/DOI-pending-lightgrey.svg)]()
 
+DOI: 10.5281/zenodo.20243916
 ---
 
 ## Overview
