@@ -1,9 +1,17 @@
 cff-version: 1.2.0
-title: GeoClimate-FusionLLM: Explainable Multi-Modal Environmental Early-Warning Pipeline
+message: "If you use this software, please cite it using the metadata from this file."
+title: "GeoClimate-FusionLLM: Explainable Multi-Modal Environmental Early-Warning Pipeline"
 authors:
-  - family-names: Ahmed
-    given-names: Shaheen Mohammed Saleh
-version: 1.0.0
-date-released: 2026-05-16
-message: "If you use this software, please cite the associated Discover Geoscience manuscript."
-license: MIT
+  - family-names: "Ahmed"
+    given-names: "Shaheen Mohammed Saleh"
+    orcid: "https://orcid.org/0000-0002-9289-128X"
+version: "1.0.2"
+date-released: "2026-05-16"
+repository-code: "https://github.com/SHAHEENGEOLO/GeoClimate-FusionLLM"
+license: "MIT"
+keywords:
+  - "climate forecasting"
+  - "environmental early warning"
+  - "deep learning"
+  - "explainable AI"
+  - "multimodal data fusion"
