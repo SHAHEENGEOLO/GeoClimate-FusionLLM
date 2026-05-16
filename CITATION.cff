@@ -1,26 +1,22 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
-type: software
-title: "GeoClimate-FusionLLM"
-abstract: >-
-  Multi-Modal Data Fusion and LLM-Assisted Explainable AI
-  for Environmental Early-Warning in Arid Urban Regions
+message: "If you use this repository, please cite it using the metadata from this file."
+title: "GeoClimate-FusionLLM: Explainable Multi-Modal Environmental Early-Warning Forecasting"
 authors:
   - family-names: "Ahmed"
     given-names: "Shaheen Mohammed Saleh"
-    orcid: "https://orcid.org/0000-0000-0000-0000"
-    affiliation: "Kirkuk University; Çukurova University"
-  - family-names: "Güneyli"
-    given-names: "Hakan"
-    affiliation: "Çukurova University"
-version: 1.0.0
-date-released: 2025-01-01
-license: MIT
-repository-code: "https://github.com/YOUR_USERNAME/GeoClimate-FusionLLM"
+    orcid: "https://orcid.org/0000-0002-9289-128X"
+repository-code: "https://github.com/SHAHEENGEOLO/GeoClimate-FusionLLM"
+url: "https://github.com/SHAHEENGEOLO/GeoClimate-FusionLLM"
+license: "MIT"
+version: "1.0.3"
+date-released: "2026-05-16"
+abstract: "GeoClimate-FusionLLM is a reproducible Python repository for explainable environmental early-warning forecasting using Baghdad 2019-2024 climate data. The workflow includes leakage-safe preprocessing, multimodal feature engineering, classical forecasting baselines, deep-learning models, ablation experiments, parameter-count analysis, multi-seed robustness testing, extreme-temperature evaluation, explainability outputs, and LLM/RAG-style environmental warning report generation."
 keywords:
-  - environmental early warning
-  - multi-modal data fusion
-  - explainable AI
-  - Baghdad
-  - temperature forecasting
-  - ensemble machine learning
+  - "climate forecasting"
+  - "environmental early warning"
+  - "multimodal data fusion"
+  - "deep learning"
+  - "explainable AI"
+  - "extreme temperature"
+  - "Baghdad"
+  - "GeoClimate-FusionLLM"
